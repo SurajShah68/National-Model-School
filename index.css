@@ -7,13 +7,14 @@
 
 
 
-
 a{
     text-decoration: none;
 }
-.video{
-    background: gray;
+.videos{
     height: 450px;
+}
+video{
+    width: 100%;
 }
 
 .class{
